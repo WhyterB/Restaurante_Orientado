@@ -5,7 +5,7 @@ class Menu:
         self.programa = ProgramaExpresso()
 
     def escolher_opcoes(self):
-        self.programa.mostrar_subtitulo('''ℜ𝔢𝔰𝔱𝔞𝔲𝔯𝔞𝔫𝔱𝔢 𝔡𝔢 𝔇𝔦𝔢𝔤𝔬''')
+        self.programa.mostrar_subtitulo('''Restaurante MatheusB''')
         print("1 - Cadastrar restaurante")
         print("2 - Listar restaurantes")
         print("3 - Ativar/Desativar restaurante")
